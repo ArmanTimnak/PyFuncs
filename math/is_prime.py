@@ -1,4 +1,4 @@
-def is_prime(num): 
+def is_prime(num: int) -> bool: 
     if num<=1: 
         return False # If num is less than or equal to 1 then it's not prime, so is_prime returns False
     for i in range(2,num): # For all numbers between 2 and num, check if num is divisible by any of those numbers

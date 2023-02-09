@@ -1,4 +1,4 @@
-def collatz_seq(starting_num): # The function collatz_seq takes in a starting number and returns a list of numbers that are part of the collatz sequence.
+def collatz_seq(starting_num: int) -> list: # The function collatz_seq takes in a starting number and returns a list of numbers that are part of the collatz sequence.
     collatz_seq_list = [] # The function first creates an empty list called collatz_seq_list.
     
     collatz_seq_list.append(starting_num) # The function then appends the starting number to the list.
