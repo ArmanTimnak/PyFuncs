@@ -24,8 +24,8 @@ def rand_name(): # This code is a function that generates a random name.
                   "Rogers", "Reed", "Cook", "Bailey", "Bell",
                   "Cooper", "Richardson", "Cox", "Howard", "Ward",
                   "Torres", "Peterson", "Gray", "Ramirez", "James",
-                 "Watson", "Brooks", "Kelly", "Sanders", "Price",
-                 "Bennett", "Wood", "Barnes", "Ross", "Henderson"]
+                  "Watson", "Brooks", "Kelly", "Sanders", "Price",
+                  "Bennett", "Wood", "Barnes", "Ross", "Henderson"]
     
     rf = random.choice(range(len(first_names)+1)) # The function then chooses a random number from the range of the length of the first name list and the last name list.
     rl = random.choice(range(len(last_names)+1))
