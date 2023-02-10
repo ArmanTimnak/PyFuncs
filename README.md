@@ -1,6 +1,6 @@
 # PyFuncs
 
-PyFuncs is a collection of useful Python functions for everyday use. It is designed to make your life easier by providing a library of functions that can be used in any Python project.
+PyFuncs is a collection of useful Python functions for everyday use. It is designed to make your life easier by providing functions that can be used in any Python project.
 
 ## Features
 
